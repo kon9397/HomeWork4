@@ -1,0 +1,8 @@
+C:\Users\kostiantyn.solohub\source\repos\HomeWork4\Task5\bin\Debug\Task5.exe.config
+C:\Users\kostiantyn.solohub\source\repos\HomeWork4\Task5\bin\Debug\Task5.exe
+C:\Users\kostiantyn.solohub\source\repos\HomeWork4\Task5\bin\Debug\Task5.pdb
+C:\Users\kostiantyn.solohub\source\repos\HomeWork4\Task5\obj\Debug\Task5.csproj.AssemblyReference.cache
+C:\Users\kostiantyn.solohub\source\repos\HomeWork4\Task5\obj\Debug\Task5.csproj.SuggestedBindingRedirects.cache
+C:\Users\kostiantyn.solohub\source\repos\HomeWork4\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+C:\Users\kostiantyn.solohub\source\repos\HomeWork4\Task5\obj\Debug\Task5.exe
+C:\Users\kostiantyn.solohub\source\repos\HomeWork4\Task5\obj\Debug\Task5.pdb
